@@ -9,3 +9,13 @@ practic React by Cloning Netflex.
 - [ ] TV shows
 - [ ] Search
 - [ ] Detail
+
+
+##API
+- [x] now playing
+- [x] top rating
+- [x] popular
+- [x] upcoming
+- [x] airing today
+- [x] details
+- [x] search
